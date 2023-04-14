@@ -5,21 +5,39 @@ Curso: Software Básico, Prof. Terigi Scaravelli.</i>
 ##
   
 [📚 exercicio_1_soma](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_1.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
-[📚 exercicio_2_soma]
-[📚 exercicio_3_soma]
-[📚 exercicio_4_soma]
-[📚 exercicio_5_soma]
-[📚 exercicio_6_soma]
-[📚 exercicio_7_soma]
-[📚 exercicio_8_soma]
-[📚 exercicio_9_soma]
-[📚 exercicio_10_soma]
-[📚 exercicio_11_soma]
-[📚 exercicio_12_soma]
-[📚 exercicio_13_soma]
-[📚 exercicio_14_soma]
-[📚 exercicio_15_soma]
-[📚 exercicio_16_soma]
-[📚 exercicio_17_soma]
-[📚 exercicio_18_soma]
-[📚 exercicio_19_soma]
+
+[📚 exercicio_2]
+
+[📚 exercicio_3]
+
+[📚 exercicio_4]
+
+[📚 exercicio_5]
+
+[📚 exercicio_6]
+
+[📚 exercicio_7]
+
+[📚 exercicio_8]
+
+[📚 exercicio_9]
+
+[📚 exercicio_10]
+
+[📚 exercicio_11]
+
+[📚 exercicio_12]
+
+[📚 exercicio_13]
+
+[📚 exercicio_14]
+
+[📚 exercicio_15]
+
+[📚 exercicio_16]
+
+[📚 exercicio_17]
+
+[📚 exercicio_18]
+
+[📚 exercicio_19]
