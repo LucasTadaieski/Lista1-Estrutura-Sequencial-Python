@@ -43,3 +43,5 @@ Curso: Software Básico, Prof. Terigi Scaravelli.</i>
 [📚 exercicio_19](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_19.py)
 
 [📚 exercicio_20](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_20.py)
+
+teste
