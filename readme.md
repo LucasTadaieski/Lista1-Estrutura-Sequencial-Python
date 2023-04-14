@@ -4,7 +4,7 @@ Curso: Software Básico, Prof. Terigi Scaravelli.</i>
 
 ##
   
-[📚 exercicio_1_soma](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_1.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
+[📚 exercicio_1_soma](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio1.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
 [📚 exercicio_2]
 
