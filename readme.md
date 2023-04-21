@@ -6,38 +6,40 @@ Curso: Software Básico, Prof. Terigi Scardovelli.</i>
   
 [📚 exercicio_1_soma](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio1.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_2]
+[📚 exercicio_2](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio2.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_3]
+[📚 exercicio_3](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio3.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_4]
+[📚 exercicio_4](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio4.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_5]
+[📚 exercicio_5](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio5.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_6]
+[📚 exercicio_6](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio6.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_7]
+[📚 exercicio_7](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio7.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_8]
+[📚 exercicio_8](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio8.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_9]
+[📚 exercicio_9](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio9.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_10]
+[📚 exercicio_10](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio10.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_11]
+[📚 exercicio_11](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_11.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_12]
+[📚 exercicio_12](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_12.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_13]
+[📚 exercicio_13](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_13.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_14]
+[📚 exercicio_14](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_14.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_15]
+[📚 exercicio_15](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_15.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_16]
+[📚 exercicio_16](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_16.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_17]
+[📚 exercicio_17](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_17.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_18]
+[📚 exercicio_18](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_18.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
 
-[📚 exercicio_19]
+[📚 exercicio_19](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_19.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
+
+[📚 exercicio_20](https://github.com/LucasTadaieski/Lista-1---Estrutura-Sequencial-Python/blob/main/exercicio_20.py)<h6>Sistema informa a soma dos número digitados pelo usuário.</h6>
